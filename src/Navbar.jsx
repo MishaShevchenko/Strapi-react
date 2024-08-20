@@ -8,7 +8,6 @@ const Navbar = () => {
       setPageId(null);
     }
   };
-  console.log(setPageId);
 
   return (
     <nav onMouseOver={handleSubmenu}>
